@@ -1,13 +1,31 @@
-# README
-## This is the README for your extension "nautiulus-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Nautilus Theme for [Visual Studio Code](http://code.visualstudio.com)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+> Deep sea theme for development sailors. 🌊🚢
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Nautilus Visual Studio code Demo](https://github.com/sammarxz/nautilus-vscode-theme/blob/master/images/nautilus-preview.png?raw=true)
 
-**Enjoy!**
+
+## Installation
+
+1. Open the extensions sidebar on Visual Studio Code
+1. Search for Nautilus Theme
+1. Click Install
+1. Click Reload to reload your editor
+1. Select the Manage Cog (bottom left) > Color Theme ＞ Nautilus Theme
+1. 🌟🌟🌟🌟🌟 Rate five-stars 😃
+
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/sammarxz/nautilus-vscode-theme/graphs/contributors).
+
+[![Sam Marxz](https://avatars3.githubusercontent.com/u/19997815?v=3&s=70)](https://github.com/sammarxz) |
+:---: |
+[Sam Marxz](https://github.com/sammarxz) |
+
+## Issues & Suggestions
+
+For any issues or suggestions, please use [GitHub issues](https://github.com/sammarxz/nautilus-vscode-theme/issues).
+
+## License
+
+[MIT License](./LICENSE)
