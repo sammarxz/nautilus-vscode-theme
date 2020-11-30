@@ -1,13 +1,37 @@
 {
     "name": "nautiulus-theme",
-    "displayName": "nautilus",
-    "description": "theme based in depths of the sea",
-    "version": "0.0.1",
+    "displayName": "Nautilus",
+    "description": "Deep sea theme for development sailors.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Sam Marxz"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
     "categories": [
         "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sammarxz/nautilus-vscode-theme"
+    },
+    "bugs": { 
+        "url": "https://github.com/sammarxz/nautilus-vscode-theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#0A0B11",
+        "theme": "dark"
+    },
+    "icon": "/images/icons/logo-250-250.png",
+    "keywords": [
+        "nautilus",
+        "linux",
+        "ubuntu",
+        "blue",
+        "deep blue",
+        "cobalt",
+        "solarized"
     ],
     "contributes": {
         "themes": [
