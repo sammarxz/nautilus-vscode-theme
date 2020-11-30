@@ -3,7 +3,7 @@
     "displayName": "Nautilus",
     "description": "Deep sea theme for development sailors.",
     "version": "1.0.0",
-    "publisher": "@sammarxz",
+    "publisher": "sammarxz",
     "author": {
         "name": "Sam Marxz"
     },
@@ -24,7 +24,7 @@
         "color": "#0A0B11",
         "theme": "dark"
     },
-    "icon": "/images/icons/logo-250-250.png",
+    "icon": "images/icons/logo-250-250.png",
     "keywords": [
         "nautilus",
         "linux",
